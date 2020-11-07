@@ -31,7 +31,7 @@ pip install beautifullsoup4
 ## English:
 This repository is a part of a master subject of Data Science from the UOC (), where is developed the skills of taking data from web scraping. It is compose by 4 files (plus the README):
 - code: in this folder there is the 'main.py' file that contains the python script which does a scraping from best sellers Amazon Spain website on the day it is executed.
-- data: in this folder there is the 'data.csv' file that contains the data obtained from executing the previos script on 28^^th October 2020.
+- data: in this folder there is the 'data.csv' file that contains the data obtained from executing the previos script on 28th October 2020.
 - DOI: this document contains only the dataset DOI published at Zenodo.
 - PRA1_WebScraping: PDF document which contains the answers of the activity.
 
