@@ -8,7 +8,7 @@ Aquest repositori consisteix en una part d'una assignatura del màster de Ciènc
 - DOI: aquest document conté únicament el DOI del dataset publicat a Zenodo.
 
 Per a poder executar el codi únicament es necessita el mòdul 'beautifulsoup' de python:
-pip install pandas
+>>pip install pandas
 
 
 ## Castellano:
